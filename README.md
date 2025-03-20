@@ -1,5 +1,7 @@
 # Sun Chaser: The Planetary Speed Challenge
 
+[![Play Now](https://img.shields.io/badge/Play%20Now-brightgreen?style=for-the-badge)](https://jerlyn.github.io/sun-chaser)
+
 ![Sun Chaser Game](https://raw.githubusercontent.com/Jerlyn/sun-chaser/main/screenshots/game-preview.png)
 
 ## 🌞 About the Game
