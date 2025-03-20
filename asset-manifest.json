@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sun-chaser/static/css/main.119fdab9.css",
+    "main.js": "/sun-chaser/static/js/main.e6f96842.js",
+    "static/js/453.9e5d3f8a.chunk.js": "/sun-chaser/static/js/453.9e5d3f8a.chunk.js",
+    "index.html": "/sun-chaser/index.html",
+    "main.119fdab9.css.map": "/sun-chaser/static/css/main.119fdab9.css.map",
+    "main.e6f96842.js.map": "/sun-chaser/static/js/main.e6f96842.js.map",
+    "453.9e5d3f8a.chunk.js.map": "/sun-chaser/static/js/453.9e5d3f8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.119fdab9.css",
+    "static/js/main.e6f96842.js"
+  ]
+}
