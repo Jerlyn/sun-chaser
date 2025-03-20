@@ -2,7 +2,7 @@
 
 [![Play Now](https://img.shields.io/badge/Play%20Now-brightgreen?style=for-the-badge)](https://jerlyn.github.io/sun-chaser)
 
-![Sun Chaser Game](https://raw.githubusercontent.com/Jerlyn/sun-chaser/main/screenshots/game-preview.png)
+![Sun Chaser Game](/screenshot.png)
 
 ## 🌞 About the Game
 
@@ -69,8 +69,8 @@ npm start
 
 ## 📸 Screenshots
 
-![Gameplay Screenshot](https://raw.githubusercontent.com/Jerlyn/sun-chaser/main/screenshots/gameplay.png)
-![Planet Selection](https://raw.githubusercontent.com/Jerlyn/sun-chaser/main/screenshots/planet-selection.png)
+![Gameplay Screenshot](/screenshot.png)
+![Planet Selection](/planet.png)
 
 ## 🤝 Contributing
 
