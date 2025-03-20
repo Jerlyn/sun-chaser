@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7921c645.css",
-    "main.js": "/static/js/main.133ae774.js",
-    "static/js/453.9e5d3f8a.chunk.js": "/static/js/453.9e5d3f8a.chunk.js",
-    "index.html": "/index.html",
-    "main.7921c645.css.map": "/static/css/main.7921c645.css.map",
-    "main.133ae774.js.map": "/static/js/main.133ae774.js.map",
-    "453.9e5d3f8a.chunk.js.map": "/static/js/453.9e5d3f8a.chunk.js.map"
+    "main.css": "/sun-chaser/static/css/main.119fdab9.css",
+    "main.js": "/sun-chaser/static/js/main.e6f96842.js",
+    "static/js/453.9e5d3f8a.chunk.js": "/sun-chaser/static/js/453.9e5d3f8a.chunk.js",
+    "index.html": "/sun-chaser/index.html",
+    "main.119fdab9.css.map": "/sun-chaser/static/css/main.119fdab9.css.map",
+    "main.e6f96842.js.map": "/sun-chaser/static/js/main.e6f96842.js.map",
+    "453.9e5d3f8a.chunk.js.map": "/sun-chaser/static/js/453.9e5d3f8a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7921c645.css",
-    "static/js/main.133ae774.js"
+    "static/css/main.119fdab9.css",
+    "static/js/main.e6f96842.js"
   ]
 }
