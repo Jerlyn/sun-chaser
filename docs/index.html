@@ -1,59 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Sun Chaser: The Planetary Speed Challenge - Educational Game"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
     <title>Sun Chaser: The Planetary Speed Challenge</title>
-    <style>
-        body {
-            font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-            background: #0f172a;
-            color: white;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-        }
-        .container {
-            max-width: 800px;
-            padding: 2rem;
-            text-align: center;
-        }
-        h1 {
-            font-size: 2.5rem;
-            background: linear-gradient(90deg, #3b82f6, #6366f1);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            margin-bottom: 2rem;
-        }
-        .coming-soon {
-            font-size: 1.25rem;
-            margin-bottom: 2rem;
-            color: #94a3b8;
-        }
-        .link {
-            display: inline-block;
-            background: #3b82f6;
-            color: white;
-            padding: 0.75rem 1.5rem;
-            border-radius: 0.5rem;
-            text-decoration: none;
-            font-weight: bold;
-            transition: background-color 0.3s;
-        }
-        .link:hover {
-            background: #2563eb;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Sun Chaser: The Planetary Speed Challenge</h1>
-        <p class="coming-soon">Interactive version coming soon! In the meantime, check out the source code.</p>
-        <a href="https://github.com/Jerlyn/sun-chaser" class="link">View Source Code</a>
-    </div>
-</body>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <!--
+      This is where React will mount your application.
+      The file that loads the React app is index.js, which renders into the #root div.
+    --> 
+  </body>
 </html>
